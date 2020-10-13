@@ -1,4 +1,4 @@
-"date","province","ccaa","new_cases","pcr","muestras.testac","hospitalized","intensive_care","deceased","cases_accumulated_pcr","muestras.pcr","muestras_totales","source_name","source"
+"date","province","ccaa","new_cases","pcr","TestAc","hospitalized","intensive_care","deceased","cases_accumulated_pcr","muestras.pcr","muestras_totales","source_name","source"
 2020-02-29,"Asturias","Asturias, Principado de",NA,NA,0,0,1,NA,1,0,0,"Gobierno de Asturias","https://coronavirus.asturias.es/"
 2020-03-01,"Asturias","Asturias, Principado de",NA,0,0,0,1,NA,1,0,0,"Gobierno de Asturias","https://coronavirus.asturias.es/"
 2020-03-02,"Asturias","Asturias, Principado de",NA,0,0,0,1,NA,1,0,0,"Gobierno de Asturias","https://coronavirus.asturias.es/"

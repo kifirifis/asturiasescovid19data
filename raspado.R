@@ -56,7 +56,7 @@ names(df) <- c("cases_accumulated_pcr",
 # datos$date <- lubridate::as_date(datos$date)
 # datos <- datos %>% select(names(df))
 # 
-# datos <- full_join(datos, df)
+datos <- full_join(datos, df)
 
 #======= Datos del output por actualizar ========= 
 # datos <- read.csv("data/output.csv", header = T)
@@ -69,10 +69,10 @@ datos <- datos %>% mutate(pcr = zoo::na.locf0(cases_accumulated_pcr),
 
 # Campos en el mismo orden
 datos <- datos %>% 
-        select(date, province, ccaa, new_cases, pcr, muestras.testac, 
+        select(date, province, ccaa, new_cases, pcr, TestAc = muestras.testac, 
                hospitalized, intensive_care, deceased, cases_accumulated_pcr, 
                muestras.pcr) %>% 
-        mutate(muestras_totales = muestras.pcr + muestras.testac,
+        mutate(muestras_totales = muestras.pcr + TestAc,
                source_name = "Gobierno de Asturias", 
                source = "https://coronavirus.asturias.es/")
 
