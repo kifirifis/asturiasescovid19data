@@ -57,6 +57,6 @@ datos <- full_join(datos, df)
 #TO-DO Solo tomar el último lag no NA RESOLVER
 datos <- datos %>% mutate(new_cases = lag(cases_accumulated_pcr - lag(cases_accumulated_pcr)))
 
-write.csv(datos, "data/procesadoasturias.csv", row.names = F)
+write.csv(datos, "data/output.csv", row.names = F)
 
 #TO-DO Poner el git aquí con el cron (después del anterior TO-DO)
