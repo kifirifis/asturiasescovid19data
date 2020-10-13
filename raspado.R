@@ -51,11 +51,11 @@ names(df) <- c("cases_accumulated_pcr",
                "date", "province", "ccaa")
 
 #Datos del drive
-# datos <- read.csv("data/asturias.csv", header = T)
-# names(datos) <- tolower(names(datos))
-# datos$date <- lubridate::as_date(datos$date)
-# datos <- datos %>% select(names(df))
-# 
+datos <- read.csv("data/asturias.csv", header = T)
+names(datos) <- tolower(names(datos))
+datos$date <- lubridate::as_date(datos$date)
+datos <- datos %>% select(names(df))
+
 datos <- full_join(datos, df)
 
 #======= Datos del output por actualizar ========= 
@@ -65,16 +65,22 @@ datos <- full_join(datos, df)
 datos <- datos %>% mutate(pcr = zoo::na.locf0(cases_accumulated_pcr),
                           pcr = pcr - lag(pcr),
                           pcr = if_else(is.na(cases_accumulated_pcr), cases_accumulated_pcr, pcr),
-                          new_cases = NA)
+                          new_cases = NA, 
+                          cases_accumulated = NA)
 
 # Campos en el mismo orden
 datos <- datos %>% 
         select(date, province, ccaa, new_cases, pcr, TestAc = muestras.testac, 
-               hospitalized, intensive_care, deceased, cases_accumulated_pcr, 
+               hospitalized, intensive_care, deceased, cases_accumulated, cases_accumulated_pcr, 
+               recovered, 
                muestras.pcr) %>% 
-        mutate(muestras_totales = muestras.pcr + TestAc,
+        mutate(
                source_name = "Gobierno de Asturias", 
-               source = "https://coronavirus.asturias.es/")
+               source = "https://coronavirus.asturias.es/",
+               comments = NA,
+               muestras_totales = muestras.pcr + TestAc,
+               `Muestras TestAc` = NA,
+               )
 
 # write.csv(datos, "data/output.csv", row.names = F)
 
