@@ -10,6 +10,9 @@ if (!("rvest" %in% installed.packages())) {
 if (!("tidyverse" %in% installed.packages())) {
         install.packages("tidyverse")
 }
+if (!("zoo" %in% installed.packages())) {
+        install.packages("zoo")
+}
 
 library(rvest)
 library(tidyverse)
@@ -48,18 +51,30 @@ names(df) <- c("cases_accumulated_pcr",
                "date", "province", "ccaa")
 
 #Datos del drive
-datos <- read.csv("data/asturias.csv", header = T)
-names(datos) <- tolower(names(datos))
-datos$date <- lubridate::as_date(datos$date)
-datos <- datos %>% select(names(df))
+# datos <- read.csv("data/asturias.csv", header = T)
+# names(datos) <- tolower(names(datos))
+# datos$date <- lubridate::as_date(datos$date)
+# datos <- datos %>% select(names(df))
+# 
+# datos <- full_join(datos, df) 
 
-datos <- full_join(datos, df) 
+#======= Datos del output por actualizar ========= 
+# datos <- read.csv("data/output.csv", header = T)
 
 #Solo tomar el último valor no NA 
 datos <- datos %>% mutate(new_cases = zoo::na.locf0(cases_accumulated_pcr),
                           new_cases = new_cases - lag(new_cases),
                           new_cases = if_else(is.na(cases_accumulated_pcr), cases_accumulated_pcr, new_cases))
 
-write.csv(datos, "data/output.csv", row.names = F)
+# Campos en el mismo orden
+datos <- datos %>% 
+        select(date, province, ccaa, new_cases, muestras.testac, 
+               hospitalized, intensive_care, deceased, cases_accumulated_pcr, 
+               muestras.pcr) %>% 
+        mutate(muestras_totales = muestras.pcr + muestras.testac,
+               source_name = "Gobierno de Asturias", 
+               source = "https://coronavirus.asturias.es/")
+
+# write.csv(datos, "data/output.csv", row.names = F)
 
 #TO-DO Poner el git aquí con el cron (después del anterior TO-DO)
