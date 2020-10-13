@@ -56,19 +56,20 @@ names(df) <- c("cases_accumulated_pcr",
 # datos$date <- lubridate::as_date(datos$date)
 # datos <- datos %>% select(names(df))
 # 
-# datos <- full_join(datos, df) 
+# datos <- full_join(datos, df)
 
 #======= Datos del output por actualizar ========= 
 # datos <- read.csv("data/output.csv", header = T)
 
 #Solo tomar el último valor no NA 
-datos <- datos %>% mutate(new_cases = zoo::na.locf0(cases_accumulated_pcr),
-                          new_cases = new_cases - lag(new_cases),
-                          new_cases = if_else(is.na(cases_accumulated_pcr), cases_accumulated_pcr, new_cases))
+datos <- datos %>% mutate(pcr = zoo::na.locf0(cases_accumulated_pcr),
+                          pcr = pcr - lag(pcr),
+                          pcr = if_else(is.na(cases_accumulated_pcr), cases_accumulated_pcr, pcr),
+                          new_cases = NA)
 
 # Campos en el mismo orden
 datos <- datos %>% 
-        select(date, province, ccaa, new_cases, muestras.testac, 
+        select(date, province, ccaa, new_cases, pcr, muestras.testac, 
                hospitalized, intensive_care, deceased, cases_accumulated_pcr, 
                muestras.pcr) %>% 
         mutate(muestras_totales = muestras.pcr + muestras.testac,
