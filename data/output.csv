@@ -1,228 +1,228 @@
-"date","province","ccaa","new_cases","pcr","TestAc","hospitalized","intensive_care","deceased","cases_accumulated","cases_accumulated_pcr","recovered","muestras.pcr","source_name","source","comments","muestras_totales","Muestras TestAc"
-2020-02-29,"Asturias","Asturias, Principado de",NA,NA,0,0,1,NA,NA,1,NA,0,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,0,NA
-2020-03-01,"Asturias","Asturias, Principado de",NA,0,0,0,1,NA,NA,1,NA,0,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,0,NA
-2020-03-02,"Asturias","Asturias, Principado de",NA,0,0,0,1,NA,NA,1,NA,0,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,0,NA
-2020-03-03,"Asturias","Asturias, Principado de",NA,1,0,1,1,NA,NA,2,NA,0,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,0,NA
-2020-03-04,"Asturias","Asturias, Principado de",NA,1,0,1,1,NA,NA,3,NA,0,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,0,NA
-2020-03-05,"Asturias","Asturias, Principado de",NA,1,0,2,1,NA,NA,4,NA,0,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,0,NA
-2020-03-06,"Asturias","Asturias, Principado de",NA,2,0,5,1,NA,NA,6,NA,0,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,0,NA
-2020-03-07,"Asturias","Asturias, Principado de",NA,1,0,5,1,NA,NA,7,NA,0,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,0,NA
-2020-03-08,"Asturias","Asturias, Principado de",NA,2,0,5,1,NA,NA,9,NA,0,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,0,NA
-2020-03-09,"Asturias","Asturias, Principado de",NA,2,0,9,2,NA,NA,11,NA,0,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,0,NA
-2020-03-10,"Asturias","Asturias, Principado de",NA,21,0,9,2,NA,NA,32,NA,0,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,0,NA
-2020-03-11,"Asturias","Asturias, Principado de",NA,4,0,10,2,NA,NA,36,NA,0,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,0,NA
-2020-03-12,"Asturias","Asturias, Principado de",NA,4,0,10,1,NA,NA,40,NA,0,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,0,NA
-2020-03-13,"Asturias","Asturias, Principado de",NA,33,0,14,1,NA,NA,73,NA,0,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,0,NA
-2020-03-14,"Asturias","Asturias, Principado de",NA,34,0,18,1,NA,NA,107,NA,0,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,0,NA
-2020-03-15,"Asturias","Asturias, Principado de",NA,42,0,21,2,NA,NA,149,NA,0,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,0,NA
-2020-03-16,"Asturias","Asturias, Principado de",NA,44,0,29,4,NA,NA,193,NA,0,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,0,NA
-2020-03-17,"Asturias","Asturias, Principado de",NA,49,0,38,4,NA,NA,242,NA,0,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,0,NA
-2020-03-18,"Asturias","Asturias, Principado de",NA,50,0,48,5,NA,NA,292,NA,0,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,0,NA
-2020-03-19,"Asturias","Asturias, Principado de",NA,52,0,69,6,NA,NA,344,NA,0,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,0,NA
-2020-03-20,"Asturias","Asturias, Principado de",NA,142,0,99,12,NA,NA,486,NA,0,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,0,NA
-2020-03-21,"Asturias","Asturias, Principado de",NA,59,0,128,15,NA,NA,545,NA,0,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,0,NA
-2020-03-22,"Asturias","Asturias, Principado de",NA,49,0,156,20,NA,NA,594,NA,0,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,0,NA
-2020-03-23,"Asturias","Asturias, Principado de",NA,68,0,158,23,NA,NA,662,NA,0,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,0,NA
-2020-03-24,"Asturias","Asturias, Principado de",NA,117,0,166,29,NA,NA,779,NA,6200,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,6200,NA
-2020-03-25,"Asturias","Asturias, Principado de",NA,62,0,200,34,NA,NA,841,NA,6900,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,6900,NA
-2020-03-26,"Asturias","Asturias, Principado de",NA,59,0,192,48,NA,NA,900,NA,8000,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,8000,NA
-2020-03-27,"Asturias","Asturias, Principado de",NA,104,0,214,51,NA,NA,1004,NA,8550,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,8550,NA
-2020-03-28,"Asturias","Asturias, Principado de",NA,84,0,249,57,NA,NA,1088,NA,9300,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,9300,NA
-2020-03-29,"Asturias","Asturias, Principado de",NA,70,0,281,57,NA,NA,1158,NA,9779,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,9779,NA
-2020-03-30,"Asturias","Asturias, Principado de",NA,78,0,306,61,NA,NA,1236,NA,10476,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,10476,NA
-2020-03-31,"Asturias","Asturias, Principado de",NA,86,0,318,72,NA,NA,1322,NA,11265,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,11265,NA
-2020-04-01,"Asturias","Asturias, Principado de",NA,62,0,309,76,NA,NA,1384,NA,12519,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,12519,NA
-2020-04-02,"Asturias","Asturias, Principado de",NA,49,0,329,82,NA,NA,1433,NA,13385,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,13385,NA
-2020-04-03,"Asturias","Asturias, Principado de",NA,89,0,347,81,NA,NA,1522,NA,14530,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,14530,NA
-2020-04-04,"Asturias","Asturias, Principado de",NA,83,0,356,83,NA,NA,1605,NA,15831,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,15831,NA
-2020-04-05,"Asturias","Asturias, Principado de",NA,41,0,364,76,NA,NA,1646,NA,16631,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,16631,NA
-2020-04-06,"Asturias","Asturias, Principado de",NA,33,0,377,74,NA,NA,1679,NA,17243,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,17243,NA
-2020-04-07,"Asturias","Asturias, Principado de",NA,26,0,354,70,NA,NA,1705,NA,18110,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,18110,NA
-2020-04-08,"Asturias","Asturias, Principado de",NA,32,0,350,65,NA,NA,1737,NA,19096,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,19096,NA
-2020-04-09,"Asturias","Asturias, Principado de",NA,62,0,346,65,NA,NA,1799,NA,20409,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,20409,NA
-2020-04-10,"Asturias","Asturias, Principado de",NA,28,0,330,62,NA,NA,1827,NA,21231,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,21231,NA
-2020-04-11,"Asturias","Asturias, Principado de",NA,65,0,341,61,NA,NA,1892,NA,22007,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,22007,NA
-2020-04-12,"Asturias","Asturias, Principado de",NA,45,715,371,61,NA,NA,1937,NA,22331,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,23046,NA
-2020-04-13,"Asturias","Asturias, Principado de",NA,73,1353,383,63,NA,NA,2010,NA,23003,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,24356,NA
-2020-04-14,"Asturias","Asturias, Principado de",NA,39,1571,371,60,NA,NA,2049,NA,23967,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,25538,NA
-2020-04-15,"Asturias","Asturias, Principado de",NA,32,2240,367,61,NA,NA,2081,NA,24855,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,27095,NA
-2020-04-16,"Asturias","Asturias, Principado de",NA,43,2971,367,61,NA,NA,2124,NA,25624,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,28595,NA
-2020-04-17,"Asturias","Asturias, Principado de",NA,29,3872,349,58,NA,NA,2153,NA,26880,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,30752,NA
-2020-04-18,"Asturias","Asturias, Principado de",NA,19,4665,360,56,NA,NA,2172,NA,28446,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,33111,NA
-2020-04-19,"Asturias","Asturias, Principado de",NA,9,5264,358,56,NA,NA,2181,NA,29261,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,34525,NA
-2020-04-20,"Asturias","Asturias, Principado de",NA,11,5951,353,53,NA,NA,2192,NA,31061,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,37012,NA
-2020-04-21,"Asturias","Asturias, Principado de",NA,26,7313,334,56,NA,NA,2218,NA,31851,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,39164,NA
-2020-04-22,"Asturias","Asturias, Principado de",NA,11,8400,315,53,NA,NA,2229,NA,33296,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,41696,NA
-2020-04-23,"Asturias","Asturias, Principado de",NA,5,9502,290,50,NA,NA,2234,NA,34425,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,43927,NA
-2020-04-24,"Asturias","Asturias, Principado de",NA,4,10768,269,48,NA,NA,2238,NA,36181,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,46949,NA
-2020-04-25,"Asturias","Asturias, Principado de",NA,11,11571,258,46,NA,NA,2249,NA,37331,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,48902,NA
-2020-04-26,"Asturias","Asturias, Principado de",NA,5,12079,251,45,NA,NA,2254,NA,38064,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,50143,NA
-2020-04-27,"Asturias","Asturias, Principado de",NA,1,13178,246,43,NA,NA,2255,NA,40370,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,53548,NA
-2020-04-28,"Asturias","Asturias, Principado de",NA,11,14483,231,38,NA,NA,2266,NA,42027,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,56510,NA
-2020-04-29,"Asturias","Asturias, Principado de",NA,17,15788,213,34,NA,NA,2283,NA,43684,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,59472,NA
-2020-04-30,"Asturias","Asturias, Principado de",NA,15,18077,191,36,NA,NA,2298,NA,45225,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,63302,NA
-2020-05-01,"Asturias","Asturias, Principado de",NA,5,18808,166,37,NA,NA,2303,NA,48405,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,67213,NA
-2020-05-02,"Asturias","Asturias, Principado de",NA,2,19757,166,35,NA,NA,2305,NA,49456,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,69213,NA
-2020-05-03,"Asturias","Asturias, Principado de",NA,1,20333,161,35,NA,NA,2306,NA,50307,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,70640,NA
-2020-05-04,"Asturias","Asturias, Principado de",NA,2,23794,153,33,NA,NA,2308,NA,51036,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,74830,NA
-2020-05-05,"Asturias","Asturias, Principado de",NA,2,25235,141,29,NA,NA,2310,NA,52904,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,78139,NA
-2020-05-06,"Asturias","Asturias, Principado de",NA,16,26424,133,30,NA,NA,2326,NA,55007,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,81431,NA
-2020-05-07,"Asturias","Asturias, Principado de",NA,10,29224,124,30,NA,NA,2336,NA,56846,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,86070,NA
-2020-05-08,"Asturias","Asturias, Principado de",NA,6,31587,96,31,NA,NA,2342,NA,58670,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,90257,NA
-2020-05-09,"Asturias","Asturias, Principado de",NA,1,32377,85,30,NA,NA,2343,NA,60201,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,92578,NA
-2020-05-10,"Asturias","Asturias, Principado de",NA,3,33082,87,29,NA,NA,2346,NA,61396,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,94478,NA
-2020-05-11,"Asturias","Asturias, Principado de",NA,5,34571,87,26,NA,NA,2351,NA,64139,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,98710,NA
-2020-05-12,"Asturias","Asturias, Principado de",NA,5,36903,80,25,NA,NA,2356,NA,65803,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,102706,NA
-2020-05-13,"Asturias","Asturias, Principado de",NA,0,36903,73,24,NA,NA,2356,NA,65803,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,102706,NA
-2020-05-14,"Asturias","Asturias, Principado de",NA,3,38680,61,23,NA,NA,2359,NA,71464,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,110144,NA
-2020-05-15,"Asturias","Asturias, Principado de",NA,7,42689,63,22,NA,NA,2366,NA,74022,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,116711,NA
-2020-05-16,"Asturias","Asturias, Principado de",NA,0,42692,59,23,NA,NA,2366,NA,75388,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,118080,NA
-2020-05-17,"Asturias","Asturias, Principado de",NA,3,44353,60,23,NA,NA,2369,NA,76667,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,121020,NA
-2020-05-18,"Asturias","Asturias, Principado de",NA,4,46907,64,19,NA,NA,2373,NA,78697,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,125604,NA
-2020-05-19,"Asturias","Asturias, Principado de",NA,1,48667,52,16,NA,NA,2374,NA,80810,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,129477,NA
-2020-05-20,"Asturias","Asturias, Principado de",NA,0,0,50,15,NA,NA,2374,NA,0,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,0,NA
-2020-05-21,"Asturias","Asturias, Principado de",NA,2,51417,50,13,NA,NA,2376,NA,82008,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,133425,NA
-2020-05-22,"Asturias","Asturias, Principado de",NA,1,53006,40,13,NA,NA,2377,NA,83563,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,136569,NA
-2020-05-23,"Asturias","Asturias, Principado de",NA,20,53843,40,13,NA,NA,2397,NA,84995,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,138838,NA
-2020-05-24,"Asturias","Asturias, Principado de",NA,2,54538,42,13,NA,NA,2399,NA,86370,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,140908,NA
-2020-05-25,"Asturias","Asturias, Principado de",NA,0,56075,38,13,NA,NA,2399,NA,88084,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,144159,NA
-2020-05-26,"Asturias","Asturias, Principado de",NA,1,57711,34,13,NA,NA,2400,NA,89481,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,147192,NA
-2020-05-27,"Asturias","Asturias, Principado de",NA,0,59609,32,10,NA,NA,2400,NA,90738,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,150347,NA
-2020-05-28,"Asturias","Asturias, Principado de",NA,3,61418,29,10,NA,NA,2403,NA,92498,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,153916,NA
-2020-05-29,"Asturias","Asturias, Principado de",NA,18,62747,27,10,NA,NA,2421,NA,93979,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,156726,NA
-2020-05-30,"Asturias","Asturias, Principado de",NA,3,63285,31,9,NA,NA,2424,NA,95359,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,158644,NA
-2020-05-31,"Asturias","Asturias, Principado de",NA,1,63706,30,9,NA,NA,2425,NA,96133,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,159839,NA
-2020-06-01,"Asturias","Asturias, Principado de",NA,0,65071,28,9,NA,NA,2425,NA,97174,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,162245,NA
-2020-06-02,"Asturias","Asturias, Principado de",NA,0,66150,29,9,NA,NA,2425,NA,98742,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,164892,NA
-2020-06-03,"Asturias","Asturias, Principado de",NA,0,67327,26,9,NA,NA,2425,NA,99513,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,166840,NA
-2020-06-04,"Asturias","Asturias, Principado de",NA,-1,68323,26,9,NA,NA,2424,NA,101938,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,170261,NA
-2020-06-05,"Asturias","Asturias, Principado de",NA,2,69154,12,9,NA,NA,2426,NA,103480,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,172634,NA
-2020-06-06,"Asturias","Asturias, Principado de",NA,1,69737,12,9,NA,NA,2427,NA,104303,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,174040,NA
-2020-06-07,"Asturias","Asturias, Principado de",NA,2,70277,12,9,NA,NA,2429,NA,105011,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,175288,NA
-2020-06-08,"Asturias","Asturias, Principado de",NA,2,71132,13,9,NA,NA,2431,NA,106210,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,177342,NA
-2020-06-09,"Asturias","Asturias, Principado de",NA,0,72285,13,9,NA,NA,2431,NA,107400,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,179685,NA
-2020-06-10,"Asturias","Asturias, Principado de",NA,0,73622,11,9,NA,NA,2431,NA,108622,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,182244,NA
-2020-06-11,"Asturias","Asturias, Principado de",NA,4,74784,7,10,NA,NA,2435,NA,109400,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,184184,NA
-2020-06-12,"Asturias","Asturias, Principado de",NA,2,75531,7,10,NA,NA,2437,NA,110821,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,186352,NA
-2020-06-13,"Asturias","Asturias, Principado de",NA,0,76082,7,11,NA,NA,2437,NA,111352,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,187434,NA
-2020-06-14,"Asturias","Asturias, Principado de",NA,0,76666,7,12,NA,NA,2437,NA,112182,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,188848,NA
-2020-06-15,"Asturias","Asturias, Principado de",NA,-1,77639,9,12,NA,NA,2436,NA,113249,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,190888,NA
-2020-06-16,"Asturias","Asturias, Principado de",NA,0,79021,5,11,NA,NA,2436,NA,114225,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,193246,NA
-2020-06-17,"Asturias","Asturias, Principado de",NA,-1,80091,8,7,NA,NA,2435,NA,115746,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,195837,NA
-2020-06-18,"Asturias","Asturias, Principado de",NA,0,81326,5,9,NA,NA,2435,NA,116752,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,198078,NA
-2020-06-19,"Asturias","Asturias, Principado de",NA,0,82125,3,9,NA,NA,2435,NA,117766,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,199891,NA
-2020-06-20,"Asturias","Asturias, Principado de",NA,0,NA,3,8,NA,NA,2435,2004,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-06-21,"Asturias","Asturias, Principado de",NA,0,83644,5,8,NA,NA,2435,2008,119765,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,203409,NA
-2020-06-22,"Asturias","Asturias, Principado de",NA,0,84069,4,8,NA,NA,2435,NA,120317,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,204386,NA
-2020-06-23,"Asturias","Asturias, Principado de",NA,0,84911,4,7,NA,NA,2435,NA,121555,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,206466,NA
-2020-06-24,"Asturias","Asturias, Principado de",NA,0,85801,3,6,NA,NA,2435,NA,122594,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,208395,NA
-2020-06-25,"Asturias","Asturias, Principado de",NA,0,86636,1,6,NA,NA,2435,NA,123803,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,210439,NA
-2020-06-26,"Asturias","Asturias, Principado de",NA,0,NA,3,6,335,NA,2435,2046,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-06-27,"Asturias","Asturias, Principado de",NA,0,87860,1,5,NA,NA,2435,NA,125889,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,213749,NA
-2020-06-28,"Asturias","Asturias, Principado de",NA,0,88287,1,5,NA,NA,2435,NA,126677,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,214964,NA
-2020-06-29,"Asturias","Asturias, Principado de",NA,0,89031,1,5,NA,NA,2435,NA,127439,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,216470,NA
-2020-06-30,"Asturias","Asturias, Principado de",NA,0,89639,1,4,NA,NA,2435,NA,128877,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,218516,NA
-2020-07-01,"Asturias","Asturias, Principado de",NA,0,90093,1,4,NA,NA,2435,NA,130165,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,220258,NA
-2020-07-02,"Asturias","Asturias, Principado de",NA,0,90504,1,4,NA,NA,2435,NA,131276,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,221780,NA
-2020-07-03,"Asturias","Asturias, Principado de",NA,0,NA,0,4,338,NA,2435,2063,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-07-04,"Asturias","Asturias, Principado de",NA,0,91365,0,4,NA,NA,2435,NA,133051,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,224416,NA
-2020-07-05,"Asturias","Asturias, Principado de",NA,0,91471,0,4,NA,NA,2435,NA,133744,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,225215,NA
-2020-07-06,"Asturias","Asturias, Principado de",NA,1,92169,1,3,NA,NA,2436,NA,134664,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,226833,NA
-2020-07-07,"Asturias","Asturias, Principado de",NA,0,92679,1,3,NA,NA,2436,NA,135940,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,228619,NA
-2020-07-08,"Asturias","Asturias, Principado de",NA,0,93158,1,3,NA,NA,2436,NA,137319,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,230477,NA
-2020-07-09,"Asturias","Asturias, Principado de",NA,1,93723,1,3,339,NA,2437,2078,138660,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,232383,NA
-2020-07-10,"Asturias","Asturias, Principado de",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-07-11,"Asturias","Asturias, Principado de",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-07-12,"Asturias","Asturias, Principado de",NA,0,94564,1,3,NA,NA,2437,NA,141070,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,235634,NA
-2020-07-13,"Asturias","Asturias, Principado de",NA,5,95110,1,3,NA,NA,2442,NA,142075,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,237185,NA
-2020-07-14,"Asturias","Asturias, Principado de",NA,0,95625,1,3,NA,NA,2442,NA,143207,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,238832,NA
-2020-07-15,"Asturias","Asturias, Principado de",NA,0,96099,1,3,339,NA,2442,NA,144388,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,240487,NA
-2020-07-16,"Asturias","Asturias, Principado de",NA,0,96610,1,3,339,NA,2442,NA,145570,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,242180,NA
-2020-07-17,"Asturias","Asturias, Principado de",NA,1,NA,NA,NA,NA,NA,2443,NA,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-07-18,"Asturias","Asturias, Principado de",NA,2,NA,NA,NA,NA,NA,2445,NA,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-07-19,"Asturias","Asturias, Principado de",NA,1,97541,1,3,339,NA,2446,2077,148012,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,245553,NA
-2020-07-20,"Asturias","Asturias, Principado de",NA,2,98257,2,3,339,NA,2448,NA,149076,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,247333,NA
-2020-07-21,"Asturias","Asturias, Principado de",NA,2,98898,2,3,339,NA,2450,2077,150301,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,249199,NA
-2020-07-22,"Asturias","Asturias, Principado de",NA,2,NA,3,3,339,NA,2452,2077,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-07-23,"Asturias","Asturias, Principado de",NA,2,NA,3,3,339,NA,2454,2077,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-07-24,"Asturias","Asturias, Principado de",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-07-25,"Asturias","Asturias, Principado de",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-07-26,"Asturias","Asturias, Principado de",NA,13,NA,3,3,339,NA,2467,2077,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-07-27,"Asturias","Asturias, Principado de",NA,3,NA,3,3,340,NA,2470,2077,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-07-28,"Asturias","Asturias, Principado de",NA,14,NA,4,2,340,NA,2484,2082,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-07-29,"Asturias","Asturias, Principado de",NA,19,NA,3,3,340,NA,2503,2082,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-07-30,"Asturias","Asturias, Principado de",NA,26,NA,3,3,340,NA,2529,2082,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-07-31,"Asturias","Asturias, Principado de",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-08-01,"Asturias","Asturias, Principado de",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-08-02,"Asturias","Asturias, Principado de",NA,26,NA,0,4,340,NA,2555,2083,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-08-03,"Asturias","Asturias, Principado de",NA,9,NA,0,4,340,NA,2564,2083,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-08-04,"Asturias","Asturias, Principado de",NA,24,NA,0,4,340,NA,2588,2083,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-08-05,"Asturias","Asturias, Principado de",NA,32,NA,4,0,340,NA,2620,2083,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-08-06,"Asturias","Asturias, Principado de",NA,31,NA,4,1,340,NA,2651,2088,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-08-07,"Asturias","Asturias, Principado de",NA,15,NA,NA,NA,NA,NA,2666,NA,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-08-08,"Asturias","Asturias, Principado de",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-08-09,"Asturias","Asturias, Principado de",NA,41,NA,4,2,340,NA,2707,2088,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-08-10,"Asturias","Asturias, Principado de",NA,11,NA,3,3,340,NA,2718,2095,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-08-11,"Asturias","Asturias, Principado de",NA,23,NA,3,3,340,NA,2741,2107,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-08-12,"Asturias","Asturias, Principado de",NA,33,NA,5,3,340,NA,2774,2107,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-08-13,"Asturias","Asturias, Principado de",NA,24,NA,5,2,340,NA,2798,2122,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-08-14,"Asturias","Asturias, Principado de",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-08-15,"Asturias","Asturias, Principado de",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-08-16,"Asturias","Asturias, Principado de",NA,76,NA,9,2,340,NA,2874,2122,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-08-17,"Asturias","Asturias, Principado de",NA,5,NA,8,2,340,NA,2879,2124,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-08-18,"Asturias","Asturias, Principado de",NA,31,NA,8,2,340,NA,2910,2126,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-08-19,"Asturias","Asturias, Principado de",NA,23,NA,7,2,340,NA,2933,2125,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-08-20,"Asturias","Asturias, Principado de",NA,40,NA,6,2,340,NA,2973,2125,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-08-21,"Asturias","Asturias, Principado de",NA,31,NA,NA,NA,NA,NA,3004,NA,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-08-22,"Asturias","Asturias, Principado de",NA,27,NA,NA,NA,341,NA,3031,NA,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-08-23,"Asturias","Asturias, Principado de",NA,17,NA,8,3,341,NA,3048,2139,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-08-24,"Asturias","Asturias, Principado de",NA,52,NA,9,2,341,NA,3100,2140,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-08-25,"Asturias","Asturias, Principado de",NA,48,NA,10,2,341,NA,3148,2140,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-08-26,"Asturias","Asturias, Principado de",NA,36,NA,9,2,341,NA,3184,2152,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-08-27,"Asturias","Asturias, Principado de",NA,35,NA,13,2,341,NA,3219,2152,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-08-28,"Asturias","Asturias, Principado de",NA,44,NA,NA,NA,NA,NA,3263,NA,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-08-29,"Asturias","Asturias, Principado de",NA,31,NA,NA,NA,NA,NA,3294,NA,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-08-30,"Asturias","Asturias, Principado de",NA,27,NA,13,4,341,NA,3321,2194,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-08-31,"Asturias","Asturias, Principado de",NA,33,NA,23,4,341,NA,3354,2194,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-09-01,"Asturias","Asturias, Principado de",NA,30,NA,22,5,341,NA,3384,2194,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-09-02,"Asturias","Asturias, Principado de",NA,49,NA,27,4,341,NA,3433,2194,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-09-03,"Asturias","Asturias, Principado de",NA,44,NA,28,5,341,NA,3477,2194,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-09-04,"Asturias","Asturias, Principado de",NA,NA,NA,NA,NA,343,NA,NA,NA,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-09-05,"Asturias","Asturias, Principado de",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-09-06,"Asturias","Asturias, Principado de",NA,200,NA,36,7,343,NA,3677,2194,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-09-07,"Asturias","Asturias, Principado de",NA,16,NA,33,7,344,NA,3693,2194,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-09-08,"Asturias","Asturias, Principado de",NA,65,NA,35,8,344,NA,3758,2194,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-09-09,"Asturias","Asturias, Principado de",NA,22,NA,35,9,344,NA,3780,2193,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-09-10,"Asturias","Asturias, Principado de",NA,47,NA,38,8,344,NA,3827,2193,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-09-11,"Asturias","Asturias, Principado de",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-09-12,"Asturias","Asturias, Principado de",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-09-13,"Asturias","Asturias, Principado de",NA,215,NA,37,10,345,NA,4042,2195,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-09-14,"Asturias","Asturias, Principado de",NA,52,NA,36,11,346,NA,4094,2196,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-09-15,"Asturias","Asturias, Principado de",NA,72,NA,33,11,346,NA,4166,2200,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-09-16,"Asturias","Asturias, Principado de",NA,79,NA,33,10,347,NA,4245,2200,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-09-17,"Asturias","Asturias, Principado de",NA,93,NA,29,12,347,NA,4338,2202,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-09-18,"Asturias","Asturias, Principado de",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-09-19,"Asturias","Asturias, Principado de",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-09-20,"Asturias","Asturias, Principado de",NA,287,NA,33,11,347,NA,4625,2204,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-09-21,"Asturias","Asturias, Principado de",NA,67,NA,38,11,348,NA,4692,2205,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-09-22,"Asturias","Asturias, Principado de",NA,79,NA,37,11,348,NA,4771,2217,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-09-23,"Asturias","Asturias, Principado de",NA,102,NA,39,13,348,NA,4873,2222,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-09-24,"Asturias","Asturias, Principado de",NA,90,NA,51,11,349,NA,4963,2223,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-09-25,"Asturias","Asturias, Principado de",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-09-26,"Asturias","Asturias, Principado de",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-09-27,"Asturias","Asturias, Principado de",NA,304,NA,49,14,350,NA,5267,2227,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-09-28,"Asturias","Asturias, Principado de",NA,67,NA,47,17,350,NA,5334,2264,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-09-29,"Asturias","Asturias, Principado de",NA,66,NA,44,16,352,NA,5400,2269,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-09-30,"Asturias","Asturias, Principado de",NA,111,NA,39,14,355,NA,5511,2269,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-10-01,"Asturias","Asturias, Principado de",NA,75,NA,43,17,356,NA,5586,2286,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-10-02,"Asturias","Asturias, Principado de",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-10-03,"Asturias","Asturias, Principado de",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-10-04,"Asturias","Asturias, Principado de",NA,330,NA,62,20,356,NA,5916,2289,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-10-05,"Asturias","Asturias, Principado de",NA,84,NA,70,21,356,NA,6000,2297,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-10-06,"Asturias","Asturias, Principado de",NA,118,NA,87,21,357,NA,6118,2297,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-10-07,"Asturias","Asturias, Principado de",NA,116,NA,89,23,357,NA,6234,2299,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-10-08,"Asturias","Asturias, Principado de",NA,118,NA,93,24,360,NA,6352,2300,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-10-09,"Asturias","Asturias, Principado de",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-10-10,"Asturias","Asturias, Principado de",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-10-11,"Asturias","Asturias, Principado de",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,NA,NA
-2020-10-12,"Asturias","Asturias, Principado de",NA,772,114842,140,26,366,NA,7124,2317,356825,"Gobierno de Asturias","https://coronavirus.asturias.es/",NA,471667,NA
+"date","province","ccaa","new_cases","pcr","TestAc","activos","hospitalized","intensive_care","deceased","cases_accumulated","cases_accumulated_pcr","recovered","source","comments","muestras_totales","Muestras PCR","Muestras TestAc"
+2020-02-29,"Asturias","Asturias, Principado de",NA,NA,0,NA,0,1,NA,NA,1,NA,"https://coronavirus.asturias.es/",NA,0,0,NA
+2020-03-01,"Asturias","Asturias, Principado de",NA,0,0,NA,0,1,NA,NA,1,NA,"https://coronavirus.asturias.es/",NA,0,0,NA
+2020-03-02,"Asturias","Asturias, Principado de",NA,0,0,NA,0,1,NA,NA,1,NA,"https://coronavirus.asturias.es/",NA,0,0,NA
+2020-03-03,"Asturias","Asturias, Principado de",NA,1,0,NA,1,1,NA,NA,2,NA,"https://coronavirus.asturias.es/",NA,0,0,NA
+2020-03-04,"Asturias","Asturias, Principado de",NA,1,0,NA,1,1,NA,NA,3,NA,"https://coronavirus.asturias.es/",NA,0,0,NA
+2020-03-05,"Asturias","Asturias, Principado de",NA,1,0,NA,2,1,NA,NA,4,NA,"https://coronavirus.asturias.es/",NA,0,0,NA
+2020-03-06,"Asturias","Asturias, Principado de",NA,2,0,NA,5,1,NA,NA,6,NA,"https://coronavirus.asturias.es/",NA,0,0,NA
+2020-03-07,"Asturias","Asturias, Principado de",NA,1,0,NA,5,1,NA,NA,7,NA,"https://coronavirus.asturias.es/",NA,0,0,NA
+2020-03-08,"Asturias","Asturias, Principado de",NA,2,0,NA,5,1,NA,NA,9,NA,"https://coronavirus.asturias.es/",NA,0,0,NA
+2020-03-09,"Asturias","Asturias, Principado de",NA,2,0,NA,9,2,NA,NA,11,NA,"https://coronavirus.asturias.es/",NA,0,0,NA
+2020-03-10,"Asturias","Asturias, Principado de",NA,21,0,NA,9,2,NA,NA,32,NA,"https://coronavirus.asturias.es/",NA,0,0,NA
+2020-03-11,"Asturias","Asturias, Principado de",NA,4,0,NA,10,2,NA,NA,36,NA,"https://coronavirus.asturias.es/",NA,0,0,NA
+2020-03-12,"Asturias","Asturias, Principado de",NA,4,0,NA,10,1,NA,NA,40,NA,"https://coronavirus.asturias.es/",NA,0,0,NA
+2020-03-13,"Asturias","Asturias, Principado de",NA,33,0,NA,14,1,NA,NA,73,NA,"https://coronavirus.asturias.es/",NA,0,0,NA
+2020-03-14,"Asturias","Asturias, Principado de",NA,34,0,NA,18,1,NA,NA,107,NA,"https://coronavirus.asturias.es/",NA,0,0,NA
+2020-03-15,"Asturias","Asturias, Principado de",NA,42,0,NA,21,2,NA,NA,149,NA,"https://coronavirus.asturias.es/",NA,0,0,NA
+2020-03-16,"Asturias","Asturias, Principado de",NA,44,0,NA,29,4,NA,NA,193,NA,"https://coronavirus.asturias.es/",NA,0,0,NA
+2020-03-17,"Asturias","Asturias, Principado de",NA,49,0,NA,38,4,NA,NA,242,NA,"https://coronavirus.asturias.es/",NA,0,0,NA
+2020-03-18,"Asturias","Asturias, Principado de",NA,50,0,NA,48,5,NA,NA,292,NA,"https://coronavirus.asturias.es/",NA,0,0,NA
+2020-03-19,"Asturias","Asturias, Principado de",NA,52,0,NA,69,6,NA,NA,344,NA,"https://coronavirus.asturias.es/",NA,0,0,NA
+2020-03-20,"Asturias","Asturias, Principado de",NA,142,0,NA,99,12,NA,NA,486,NA,"https://coronavirus.asturias.es/",NA,0,0,NA
+2020-03-21,"Asturias","Asturias, Principado de",NA,59,0,NA,128,15,NA,NA,545,NA,"https://coronavirus.asturias.es/",NA,0,0,NA
+2020-03-22,"Asturias","Asturias, Principado de",NA,49,0,NA,156,20,NA,NA,594,NA,"https://coronavirus.asturias.es/",NA,0,0,NA
+2020-03-23,"Asturias","Asturias, Principado de",NA,68,0,NA,158,23,NA,NA,662,NA,"https://coronavirus.asturias.es/",NA,0,0,NA
+2020-03-24,"Asturias","Asturias, Principado de",NA,117,0,NA,166,29,NA,NA,779,NA,"https://coronavirus.asturias.es/",NA,6200,6200,NA
+2020-03-25,"Asturias","Asturias, Principado de",NA,62,0,NA,200,34,NA,NA,841,NA,"https://coronavirus.asturias.es/",NA,6900,6900,NA
+2020-03-26,"Asturias","Asturias, Principado de",NA,59,0,NA,192,48,NA,NA,900,NA,"https://coronavirus.asturias.es/",NA,8000,8000,NA
+2020-03-27,"Asturias","Asturias, Principado de",NA,104,0,NA,214,51,NA,NA,1004,NA,"https://coronavirus.asturias.es/",NA,8550,8550,NA
+2020-03-28,"Asturias","Asturias, Principado de",NA,84,0,NA,249,57,NA,NA,1088,NA,"https://coronavirus.asturias.es/",NA,9300,9300,NA
+2020-03-29,"Asturias","Asturias, Principado de",NA,70,0,NA,281,57,NA,NA,1158,NA,"https://coronavirus.asturias.es/",NA,9779,9779,NA
+2020-03-30,"Asturias","Asturias, Principado de",NA,78,0,NA,306,61,NA,NA,1236,NA,"https://coronavirus.asturias.es/",NA,10476,10476,NA
+2020-03-31,"Asturias","Asturias, Principado de",NA,86,0,NA,318,72,NA,NA,1322,NA,"https://coronavirus.asturias.es/",NA,11265,11265,NA
+2020-04-01,"Asturias","Asturias, Principado de",NA,62,0,NA,309,76,NA,NA,1384,NA,"https://coronavirus.asturias.es/",NA,12519,12519,NA
+2020-04-02,"Asturias","Asturias, Principado de",NA,49,0,NA,329,82,NA,NA,1433,NA,"https://coronavirus.asturias.es/",NA,13385,13385,NA
+2020-04-03,"Asturias","Asturias, Principado de",NA,89,0,NA,347,81,NA,NA,1522,NA,"https://coronavirus.asturias.es/",NA,14530,14530,NA
+2020-04-04,"Asturias","Asturias, Principado de",NA,83,0,NA,356,83,NA,NA,1605,NA,"https://coronavirus.asturias.es/",NA,15831,15831,NA
+2020-04-05,"Asturias","Asturias, Principado de",NA,41,0,NA,364,76,NA,NA,1646,NA,"https://coronavirus.asturias.es/",NA,16631,16631,NA
+2020-04-06,"Asturias","Asturias, Principado de",NA,33,0,NA,377,74,NA,NA,1679,NA,"https://coronavirus.asturias.es/",NA,17243,17243,NA
+2020-04-07,"Asturias","Asturias, Principado de",NA,26,0,NA,354,70,NA,NA,1705,NA,"https://coronavirus.asturias.es/",NA,18110,18110,NA
+2020-04-08,"Asturias","Asturias, Principado de",NA,32,0,NA,350,65,NA,NA,1737,NA,"https://coronavirus.asturias.es/",NA,19096,19096,NA
+2020-04-09,"Asturias","Asturias, Principado de",NA,62,0,NA,346,65,NA,NA,1799,NA,"https://coronavirus.asturias.es/",NA,20409,20409,NA
+2020-04-10,"Asturias","Asturias, Principado de",NA,28,0,NA,330,62,NA,NA,1827,NA,"https://coronavirus.asturias.es/",NA,21231,21231,NA
+2020-04-11,"Asturias","Asturias, Principado de",NA,65,0,NA,341,61,NA,NA,1892,NA,"https://coronavirus.asturias.es/",NA,22007,22007,NA
+2020-04-12,"Asturias","Asturias, Principado de",NA,45,715,NA,371,61,NA,NA,1937,NA,"https://coronavirus.asturias.es/",NA,23046,22331,NA
+2020-04-13,"Asturias","Asturias, Principado de",NA,73,1353,NA,383,63,NA,NA,2010,NA,"https://coronavirus.asturias.es/",NA,24356,23003,NA
+2020-04-14,"Asturias","Asturias, Principado de",NA,39,1571,NA,371,60,NA,NA,2049,NA,"https://coronavirus.asturias.es/",NA,25538,23967,NA
+2020-04-15,"Asturias","Asturias, Principado de",NA,32,2240,NA,367,61,NA,NA,2081,NA,"https://coronavirus.asturias.es/",NA,27095,24855,NA
+2020-04-16,"Asturias","Asturias, Principado de",NA,43,2971,NA,367,61,NA,NA,2124,NA,"https://coronavirus.asturias.es/",NA,28595,25624,NA
+2020-04-17,"Asturias","Asturias, Principado de",NA,29,3872,NA,349,58,NA,NA,2153,NA,"https://coronavirus.asturias.es/",NA,30752,26880,NA
+2020-04-18,"Asturias","Asturias, Principado de",NA,19,4665,NA,360,56,NA,NA,2172,NA,"https://coronavirus.asturias.es/",NA,33111,28446,NA
+2020-04-19,"Asturias","Asturias, Principado de",NA,9,5264,NA,358,56,NA,NA,2181,NA,"https://coronavirus.asturias.es/",NA,34525,29261,NA
+2020-04-20,"Asturias","Asturias, Principado de",NA,11,5951,NA,353,53,NA,NA,2192,NA,"https://coronavirus.asturias.es/",NA,37012,31061,NA
+2020-04-21,"Asturias","Asturias, Principado de",NA,26,7313,NA,334,56,NA,NA,2218,NA,"https://coronavirus.asturias.es/",NA,39164,31851,NA
+2020-04-22,"Asturias","Asturias, Principado de",NA,11,8400,NA,315,53,NA,NA,2229,NA,"https://coronavirus.asturias.es/",NA,41696,33296,NA
+2020-04-23,"Asturias","Asturias, Principado de",NA,5,9502,NA,290,50,NA,NA,2234,NA,"https://coronavirus.asturias.es/",NA,43927,34425,NA
+2020-04-24,"Asturias","Asturias, Principado de",NA,4,10768,NA,269,48,NA,NA,2238,NA,"https://coronavirus.asturias.es/",NA,46949,36181,NA
+2020-04-25,"Asturias","Asturias, Principado de",NA,11,11571,NA,258,46,NA,NA,2249,NA,"https://coronavirus.asturias.es/",NA,48902,37331,NA
+2020-04-26,"Asturias","Asturias, Principado de",NA,5,12079,NA,251,45,NA,NA,2254,NA,"https://coronavirus.asturias.es/",NA,50143,38064,NA
+2020-04-27,"Asturias","Asturias, Principado de",NA,1,13178,NA,246,43,NA,NA,2255,NA,"https://coronavirus.asturias.es/",NA,53548,40370,NA
+2020-04-28,"Asturias","Asturias, Principado de",NA,11,14483,NA,231,38,NA,NA,2266,NA,"https://coronavirus.asturias.es/",NA,56510,42027,NA
+2020-04-29,"Asturias","Asturias, Principado de",NA,17,15788,NA,213,34,NA,NA,2283,NA,"https://coronavirus.asturias.es/",NA,59472,43684,NA
+2020-04-30,"Asturias","Asturias, Principado de",NA,15,18077,NA,191,36,NA,NA,2298,NA,"https://coronavirus.asturias.es/",NA,63302,45225,NA
+2020-05-01,"Asturias","Asturias, Principado de",NA,5,18808,NA,166,37,NA,NA,2303,NA,"https://coronavirus.asturias.es/",NA,67213,48405,NA
+2020-05-02,"Asturias","Asturias, Principado de",NA,2,19757,NA,166,35,NA,NA,2305,NA,"https://coronavirus.asturias.es/",NA,69213,49456,NA
+2020-05-03,"Asturias","Asturias, Principado de",NA,1,20333,NA,161,35,NA,NA,2306,NA,"https://coronavirus.asturias.es/",NA,70640,50307,NA
+2020-05-04,"Asturias","Asturias, Principado de",NA,2,23794,NA,153,33,NA,NA,2308,NA,"https://coronavirus.asturias.es/",NA,74830,51036,NA
+2020-05-05,"Asturias","Asturias, Principado de",NA,2,25235,NA,141,29,NA,NA,2310,NA,"https://coronavirus.asturias.es/",NA,78139,52904,NA
+2020-05-06,"Asturias","Asturias, Principado de",NA,16,26424,NA,133,30,NA,NA,2326,NA,"https://coronavirus.asturias.es/",NA,81431,55007,NA
+2020-05-07,"Asturias","Asturias, Principado de",NA,10,29224,NA,124,30,NA,NA,2336,NA,"https://coronavirus.asturias.es/",NA,86070,56846,NA
+2020-05-08,"Asturias","Asturias, Principado de",NA,6,31587,NA,96,31,NA,NA,2342,NA,"https://coronavirus.asturias.es/",NA,90257,58670,NA
+2020-05-09,"Asturias","Asturias, Principado de",NA,1,32377,NA,85,30,NA,NA,2343,NA,"https://coronavirus.asturias.es/",NA,92578,60201,NA
+2020-05-10,"Asturias","Asturias, Principado de",NA,3,33082,NA,87,29,NA,NA,2346,NA,"https://coronavirus.asturias.es/",NA,94478,61396,NA
+2020-05-11,"Asturias","Asturias, Principado de",NA,5,34571,NA,87,26,NA,NA,2351,NA,"https://coronavirus.asturias.es/",NA,98710,64139,NA
+2020-05-12,"Asturias","Asturias, Principado de",NA,5,36903,NA,80,25,NA,NA,2356,NA,"https://coronavirus.asturias.es/",NA,102706,65803,NA
+2020-05-13,"Asturias","Asturias, Principado de",NA,0,36903,NA,73,24,NA,NA,2356,NA,"https://coronavirus.asturias.es/",NA,102706,65803,NA
+2020-05-14,"Asturias","Asturias, Principado de",NA,3,38680,NA,61,23,NA,NA,2359,NA,"https://coronavirus.asturias.es/",NA,110144,71464,NA
+2020-05-15,"Asturias","Asturias, Principado de",NA,7,42689,NA,63,22,NA,NA,2366,NA,"https://coronavirus.asturias.es/",NA,116711,74022,NA
+2020-05-16,"Asturias","Asturias, Principado de",NA,0,42692,NA,59,23,NA,NA,2366,NA,"https://coronavirus.asturias.es/",NA,118080,75388,NA
+2020-05-17,"Asturias","Asturias, Principado de",NA,3,44353,NA,60,23,NA,NA,2369,NA,"https://coronavirus.asturias.es/",NA,121020,76667,NA
+2020-05-18,"Asturias","Asturias, Principado de",NA,4,46907,NA,64,19,NA,NA,2373,NA,"https://coronavirus.asturias.es/",NA,125604,78697,NA
+2020-05-19,"Asturias","Asturias, Principado de",NA,1,48667,NA,52,16,NA,NA,2374,NA,"https://coronavirus.asturias.es/",NA,129477,80810,NA
+2020-05-20,"Asturias","Asturias, Principado de",NA,0,0,NA,50,15,NA,NA,2374,NA,"https://coronavirus.asturias.es/",NA,0,0,NA
+2020-05-21,"Asturias","Asturias, Principado de",NA,2,51417,NA,50,13,NA,NA,2376,NA,"https://coronavirus.asturias.es/",NA,133425,82008,NA
+2020-05-22,"Asturias","Asturias, Principado de",NA,1,53006,NA,40,13,NA,NA,2377,NA,"https://coronavirus.asturias.es/",NA,136569,83563,NA
+2020-05-23,"Asturias","Asturias, Principado de",NA,20,53843,NA,40,13,NA,NA,2397,NA,"https://coronavirus.asturias.es/",NA,138838,84995,NA
+2020-05-24,"Asturias","Asturias, Principado de",NA,2,54538,NA,42,13,NA,NA,2399,NA,"https://coronavirus.asturias.es/",NA,140908,86370,NA
+2020-05-25,"Asturias","Asturias, Principado de",NA,0,56075,NA,38,13,NA,NA,2399,NA,"https://coronavirus.asturias.es/",NA,144159,88084,NA
+2020-05-26,"Asturias","Asturias, Principado de",NA,1,57711,NA,34,13,NA,NA,2400,NA,"https://coronavirus.asturias.es/",NA,147192,89481,NA
+2020-05-27,"Asturias","Asturias, Principado de",NA,0,59609,NA,32,10,NA,NA,2400,NA,"https://coronavirus.asturias.es/",NA,150347,90738,NA
+2020-05-28,"Asturias","Asturias, Principado de",NA,3,61418,NA,29,10,NA,NA,2403,NA,"https://coronavirus.asturias.es/",NA,153916,92498,NA
+2020-05-29,"Asturias","Asturias, Principado de",NA,18,62747,NA,27,10,NA,NA,2421,NA,"https://coronavirus.asturias.es/",NA,156726,93979,NA
+2020-05-30,"Asturias","Asturias, Principado de",NA,3,63285,NA,31,9,NA,NA,2424,NA,"https://coronavirus.asturias.es/",NA,158644,95359,NA
+2020-05-31,"Asturias","Asturias, Principado de",NA,1,63706,NA,30,9,NA,NA,2425,NA,"https://coronavirus.asturias.es/",NA,159839,96133,NA
+2020-06-01,"Asturias","Asturias, Principado de",NA,0,65071,NA,28,9,NA,NA,2425,NA,"https://coronavirus.asturias.es/",NA,162245,97174,NA
+2020-06-02,"Asturias","Asturias, Principado de",NA,0,66150,NA,29,9,NA,NA,2425,NA,"https://coronavirus.asturias.es/",NA,164892,98742,NA
+2020-06-03,"Asturias","Asturias, Principado de",NA,0,67327,NA,26,9,NA,NA,2425,NA,"https://coronavirus.asturias.es/",NA,166840,99513,NA
+2020-06-04,"Asturias","Asturias, Principado de",NA,-1,68323,NA,26,9,NA,NA,2424,NA,"https://coronavirus.asturias.es/",NA,170261,101938,NA
+2020-06-05,"Asturias","Asturias, Principado de",NA,2,69154,NA,12,9,NA,NA,2426,NA,"https://coronavirus.asturias.es/",NA,172634,103480,NA
+2020-06-06,"Asturias","Asturias, Principado de",NA,1,69737,NA,12,9,NA,NA,2427,NA,"https://coronavirus.asturias.es/",NA,174040,104303,NA
+2020-06-07,"Asturias","Asturias, Principado de",NA,2,70277,NA,12,9,NA,NA,2429,NA,"https://coronavirus.asturias.es/",NA,175288,105011,NA
+2020-06-08,"Asturias","Asturias, Principado de",NA,2,71132,NA,13,9,NA,NA,2431,NA,"https://coronavirus.asturias.es/",NA,177342,106210,NA
+2020-06-09,"Asturias","Asturias, Principado de",NA,0,72285,NA,13,9,NA,NA,2431,NA,"https://coronavirus.asturias.es/",NA,179685,107400,NA
+2020-06-10,"Asturias","Asturias, Principado de",NA,0,73622,NA,11,9,NA,NA,2431,NA,"https://coronavirus.asturias.es/",NA,182244,108622,NA
+2020-06-11,"Asturias","Asturias, Principado de",NA,4,74784,NA,7,10,NA,NA,2435,NA,"https://coronavirus.asturias.es/",NA,184184,109400,NA
+2020-06-12,"Asturias","Asturias, Principado de",NA,2,75531,NA,7,10,NA,NA,2437,NA,"https://coronavirus.asturias.es/",NA,186352,110821,NA
+2020-06-13,"Asturias","Asturias, Principado de",NA,0,76082,NA,7,11,NA,NA,2437,NA,"https://coronavirus.asturias.es/",NA,187434,111352,NA
+2020-06-14,"Asturias","Asturias, Principado de",NA,0,76666,NA,7,12,NA,NA,2437,NA,"https://coronavirus.asturias.es/",NA,188848,112182,NA
+2020-06-15,"Asturias","Asturias, Principado de",NA,-1,77639,NA,9,12,NA,NA,2436,NA,"https://coronavirus.asturias.es/",NA,190888,113249,NA
+2020-06-16,"Asturias","Asturias, Principado de",NA,0,79021,NA,5,11,NA,NA,2436,NA,"https://coronavirus.asturias.es/",NA,193246,114225,NA
+2020-06-17,"Asturias","Asturias, Principado de",NA,-1,80091,NA,8,7,NA,NA,2435,NA,"https://coronavirus.asturias.es/",NA,195837,115746,NA
+2020-06-18,"Asturias","Asturias, Principado de",NA,0,81326,NA,5,9,NA,NA,2435,NA,"https://coronavirus.asturias.es/",NA,198078,116752,NA
+2020-06-19,"Asturias","Asturias, Principado de",NA,0,82125,NA,3,9,NA,NA,2435,NA,"https://coronavirus.asturias.es/",NA,199891,117766,NA
+2020-06-20,"Asturias","Asturias, Principado de",NA,0,NA,NA,3,8,NA,NA,2435,2004,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-06-21,"Asturias","Asturias, Principado de",NA,0,83644,NA,5,8,NA,NA,2435,2008,"https://coronavirus.asturias.es/",NA,203409,119765,NA
+2020-06-22,"Asturias","Asturias, Principado de",NA,0,84069,NA,4,8,NA,NA,2435,NA,"https://coronavirus.asturias.es/",NA,204386,120317,NA
+2020-06-23,"Asturias","Asturias, Principado de",NA,0,84911,NA,4,7,NA,NA,2435,NA,"https://coronavirus.asturias.es/",NA,206466,121555,NA
+2020-06-24,"Asturias","Asturias, Principado de",NA,0,85801,NA,3,6,NA,NA,2435,NA,"https://coronavirus.asturias.es/",NA,208395,122594,NA
+2020-06-25,"Asturias","Asturias, Principado de",NA,0,86636,NA,1,6,NA,NA,2435,NA,"https://coronavirus.asturias.es/",NA,210439,123803,NA
+2020-06-26,"Asturias","Asturias, Principado de",NA,0,NA,NA,3,6,335,NA,2435,2046,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-06-27,"Asturias","Asturias, Principado de",NA,0,87860,NA,1,5,NA,NA,2435,NA,"https://coronavirus.asturias.es/",NA,213749,125889,NA
+2020-06-28,"Asturias","Asturias, Principado de",NA,0,88287,NA,1,5,NA,NA,2435,NA,"https://coronavirus.asturias.es/",NA,214964,126677,NA
+2020-06-29,"Asturias","Asturias, Principado de",NA,0,89031,NA,1,5,NA,NA,2435,NA,"https://coronavirus.asturias.es/",NA,216470,127439,NA
+2020-06-30,"Asturias","Asturias, Principado de",NA,0,89639,NA,1,4,NA,NA,2435,NA,"https://coronavirus.asturias.es/",NA,218516,128877,NA
+2020-07-01,"Asturias","Asturias, Principado de",NA,0,90093,NA,1,4,NA,NA,2435,NA,"https://coronavirus.asturias.es/",NA,220258,130165,NA
+2020-07-02,"Asturias","Asturias, Principado de",NA,0,90504,NA,1,4,NA,NA,2435,NA,"https://coronavirus.asturias.es/",NA,221780,131276,NA
+2020-07-03,"Asturias","Asturias, Principado de",NA,0,NA,NA,0,4,338,NA,2435,2063,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-07-04,"Asturias","Asturias, Principado de",NA,0,91365,NA,0,4,NA,NA,2435,NA,"https://coronavirus.asturias.es/",NA,224416,133051,NA
+2020-07-05,"Asturias","Asturias, Principado de",NA,0,91471,NA,0,4,NA,NA,2435,NA,"https://coronavirus.asturias.es/",NA,225215,133744,NA
+2020-07-06,"Asturias","Asturias, Principado de",NA,1,92169,NA,1,3,NA,NA,2436,NA,"https://coronavirus.asturias.es/",NA,226833,134664,NA
+2020-07-07,"Asturias","Asturias, Principado de",NA,0,92679,NA,1,3,NA,NA,2436,NA,"https://coronavirus.asturias.es/",NA,228619,135940,NA
+2020-07-08,"Asturias","Asturias, Principado de",NA,0,93158,NA,1,3,NA,NA,2436,NA,"https://coronavirus.asturias.es/",NA,230477,137319,NA
+2020-07-09,"Asturias","Asturias, Principado de",NA,1,93723,NA,1,3,339,NA,2437,2078,"https://coronavirus.asturias.es/",NA,232383,138660,NA
+2020-07-10,"Asturias","Asturias, Principado de",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-07-11,"Asturias","Asturias, Principado de",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-07-12,"Asturias","Asturias, Principado de",NA,0,94564,NA,1,3,NA,NA,2437,NA,"https://coronavirus.asturias.es/",NA,235634,141070,NA
+2020-07-13,"Asturias","Asturias, Principado de",NA,5,95110,NA,1,3,NA,NA,2442,NA,"https://coronavirus.asturias.es/",NA,237185,142075,NA
+2020-07-14,"Asturias","Asturias, Principado de",NA,0,95625,NA,1,3,NA,NA,2442,NA,"https://coronavirus.asturias.es/",NA,238832,143207,NA
+2020-07-15,"Asturias","Asturias, Principado de",NA,0,96099,NA,1,3,339,NA,2442,NA,"https://coronavirus.asturias.es/",NA,240487,144388,NA
+2020-07-16,"Asturias","Asturias, Principado de",NA,0,96610,NA,1,3,339,NA,2442,NA,"https://coronavirus.asturias.es/",NA,242180,145570,NA
+2020-07-17,"Asturias","Asturias, Principado de",NA,1,NA,NA,NA,NA,NA,NA,2443,NA,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-07-18,"Asturias","Asturias, Principado de",NA,2,NA,NA,NA,NA,NA,NA,2445,NA,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-07-19,"Asturias","Asturias, Principado de",NA,1,97541,NA,1,3,339,NA,2446,2077,"https://coronavirus.asturias.es/",NA,245553,148012,NA
+2020-07-20,"Asturias","Asturias, Principado de",NA,2,98257,NA,2,3,339,NA,2448,NA,"https://coronavirus.asturias.es/",NA,247333,149076,NA
+2020-07-21,"Asturias","Asturias, Principado de",NA,2,98898,NA,2,3,339,NA,2450,2077,"https://coronavirus.asturias.es/",NA,249199,150301,NA
+2020-07-22,"Asturias","Asturias, Principado de",NA,2,NA,NA,3,3,339,NA,2452,2077,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-07-23,"Asturias","Asturias, Principado de",NA,2,NA,NA,3,3,339,NA,2454,2077,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-07-24,"Asturias","Asturias, Principado de",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-07-25,"Asturias","Asturias, Principado de",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-07-26,"Asturias","Asturias, Principado de",NA,13,NA,NA,3,3,339,NA,2467,2077,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-07-27,"Asturias","Asturias, Principado de",NA,3,NA,NA,3,3,340,NA,2470,2077,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-07-28,"Asturias","Asturias, Principado de",NA,14,NA,NA,4,2,340,NA,2484,2082,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-07-29,"Asturias","Asturias, Principado de",NA,19,NA,NA,3,3,340,NA,2503,2082,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-07-30,"Asturias","Asturias, Principado de",NA,26,NA,NA,3,3,340,NA,2529,2082,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-07-31,"Asturias","Asturias, Principado de",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-08-01,"Asturias","Asturias, Principado de",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-08-02,"Asturias","Asturias, Principado de",NA,26,NA,NA,0,4,340,NA,2555,2083,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-08-03,"Asturias","Asturias, Principado de",NA,9,NA,NA,0,4,340,NA,2564,2083,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-08-04,"Asturias","Asturias, Principado de",NA,24,NA,NA,0,4,340,NA,2588,2083,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-08-05,"Asturias","Asturias, Principado de",NA,32,NA,NA,4,0,340,NA,2620,2083,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-08-06,"Asturias","Asturias, Principado de",NA,31,NA,NA,4,1,340,NA,2651,2088,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-08-07,"Asturias","Asturias, Principado de",NA,15,NA,NA,NA,NA,NA,NA,2666,NA,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-08-08,"Asturias","Asturias, Principado de",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-08-09,"Asturias","Asturias, Principado de",NA,41,NA,NA,4,2,340,NA,2707,2088,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-08-10,"Asturias","Asturias, Principado de",NA,11,NA,NA,3,3,340,NA,2718,2095,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-08-11,"Asturias","Asturias, Principado de",NA,23,NA,NA,3,3,340,NA,2741,2107,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-08-12,"Asturias","Asturias, Principado de",NA,33,NA,NA,5,3,340,NA,2774,2107,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-08-13,"Asturias","Asturias, Principado de",NA,24,NA,NA,5,2,340,NA,2798,2122,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-08-14,"Asturias","Asturias, Principado de",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-08-15,"Asturias","Asturias, Principado de",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-08-16,"Asturias","Asturias, Principado de",NA,76,NA,NA,9,2,340,NA,2874,2122,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-08-17,"Asturias","Asturias, Principado de",NA,5,NA,NA,8,2,340,NA,2879,2124,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-08-18,"Asturias","Asturias, Principado de",NA,31,NA,NA,8,2,340,NA,2910,2126,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-08-19,"Asturias","Asturias, Principado de",NA,23,NA,NA,7,2,340,NA,2933,2125,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-08-20,"Asturias","Asturias, Principado de",NA,40,NA,NA,6,2,340,NA,2973,2125,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-08-21,"Asturias","Asturias, Principado de",NA,31,NA,NA,NA,NA,NA,NA,3004,NA,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-08-22,"Asturias","Asturias, Principado de",NA,27,NA,NA,NA,NA,341,NA,3031,NA,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-08-23,"Asturias","Asturias, Principado de",NA,17,NA,NA,8,3,341,NA,3048,2139,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-08-24,"Asturias","Asturias, Principado de",NA,52,NA,NA,9,2,341,NA,3100,2140,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-08-25,"Asturias","Asturias, Principado de",NA,48,NA,NA,10,2,341,NA,3148,2140,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-08-26,"Asturias","Asturias, Principado de",NA,36,NA,NA,9,2,341,NA,3184,2152,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-08-27,"Asturias","Asturias, Principado de",NA,35,NA,NA,13,2,341,NA,3219,2152,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-08-28,"Asturias","Asturias, Principado de",NA,44,NA,NA,NA,NA,NA,NA,3263,NA,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-08-29,"Asturias","Asturias, Principado de",NA,31,NA,NA,NA,NA,NA,NA,3294,NA,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-08-30,"Asturias","Asturias, Principado de",NA,27,NA,NA,13,4,341,NA,3321,2194,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-08-31,"Asturias","Asturias, Principado de",NA,33,NA,NA,23,4,341,NA,3354,2194,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-09-01,"Asturias","Asturias, Principado de",NA,30,NA,NA,22,5,341,NA,3384,2194,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-09-02,"Asturias","Asturias, Principado de",NA,49,NA,NA,27,4,341,NA,3433,2194,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-09-03,"Asturias","Asturias, Principado de",NA,44,NA,NA,28,5,341,NA,3477,2194,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-09-04,"Asturias","Asturias, Principado de",NA,NA,NA,NA,NA,NA,343,NA,NA,NA,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-09-05,"Asturias","Asturias, Principado de",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-09-06,"Asturias","Asturias, Principado de",NA,200,NA,NA,36,7,343,NA,3677,2194,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-09-07,"Asturias","Asturias, Principado de",NA,16,NA,NA,33,7,344,NA,3693,2194,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-09-08,"Asturias","Asturias, Principado de",NA,65,NA,NA,35,8,344,NA,3758,2194,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-09-09,"Asturias","Asturias, Principado de",NA,22,NA,NA,35,9,344,NA,3780,2193,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-09-10,"Asturias","Asturias, Principado de",NA,47,NA,NA,38,8,344,NA,3827,2193,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-09-11,"Asturias","Asturias, Principado de",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-09-12,"Asturias","Asturias, Principado de",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-09-13,"Asturias","Asturias, Principado de",NA,215,NA,NA,37,10,345,NA,4042,2195,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-09-14,"Asturias","Asturias, Principado de",NA,52,NA,NA,36,11,346,NA,4094,2196,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-09-15,"Asturias","Asturias, Principado de",NA,72,NA,NA,33,11,346,NA,4166,2200,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-09-16,"Asturias","Asturias, Principado de",NA,79,NA,NA,33,10,347,NA,4245,2200,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-09-17,"Asturias","Asturias, Principado de",NA,93,NA,NA,29,12,347,NA,4338,2202,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-09-18,"Asturias","Asturias, Principado de",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-09-19,"Asturias","Asturias, Principado de",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-09-20,"Asturias","Asturias, Principado de",NA,287,NA,NA,33,11,347,NA,4625,2204,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-09-21,"Asturias","Asturias, Principado de",NA,67,NA,NA,38,11,348,NA,4692,2205,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-09-22,"Asturias","Asturias, Principado de",NA,79,NA,NA,37,11,348,NA,4771,2217,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-09-23,"Asturias","Asturias, Principado de",NA,102,NA,NA,39,13,348,NA,4873,2222,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-09-24,"Asturias","Asturias, Principado de",NA,90,NA,NA,51,11,349,NA,4963,2223,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-09-25,"Asturias","Asturias, Principado de",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-09-26,"Asturias","Asturias, Principado de",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-09-27,"Asturias","Asturias, Principado de",NA,304,NA,NA,49,14,350,NA,5267,2227,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-09-28,"Asturias","Asturias, Principado de",NA,67,NA,NA,47,17,350,NA,5334,2264,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-09-29,"Asturias","Asturias, Principado de",NA,66,NA,NA,44,16,352,NA,5400,2269,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-09-30,"Asturias","Asturias, Principado de",NA,111,NA,NA,39,14,355,NA,5511,2269,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-10-01,"Asturias","Asturias, Principado de",NA,75,NA,NA,43,17,356,NA,5586,2286,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-10-02,"Asturias","Asturias, Principado de",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-10-03,"Asturias","Asturias, Principado de",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-10-04,"Asturias","Asturias, Principado de",NA,330,NA,NA,62,20,356,NA,5916,2289,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-10-05,"Asturias","Asturias, Principado de",NA,84,NA,NA,70,21,356,NA,6000,2297,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-10-06,"Asturias","Asturias, Principado de",NA,118,NA,NA,87,21,357,NA,6118,2297,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-10-07,"Asturias","Asturias, Principado de",NA,116,NA,NA,89,23,357,NA,6234,2299,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-10-08,"Asturias","Asturias, Principado de",NA,118,NA,NA,93,24,360,NA,6352,2300,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-10-09,"Asturias","Asturias, Principado de",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-10-10,"Asturias","Asturias, Principado de",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-10-11,"Asturias","Asturias, Principado de",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"https://coronavirus.asturias.es/",NA,NA,NA,NA
+2020-10-12,"Asturias","Asturias, Principado de",NA,772,114842,NA,140,26,366,NA,7124,2317,"https://coronavirus.asturias.es/",NA,471667,356825,NA
