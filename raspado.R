@@ -14,6 +14,7 @@ if (!("tidyverse" %in% installed.packages())) {
 library(rvest)
 library(tidyverse)
 
+
 #==============  Raspado =========== 
 pagina <-  "https://coronavirus.asturias.es/"
 html <- read_html(pagina)
@@ -54,8 +55,10 @@ datos <- datos %>% select(names(df))
 
 datos <- full_join(datos, df) 
 
-#TO-DO Solo tomar el último lag no NA RESOLVER
-datos <- datos %>% mutate(new_cases = lag(cases_accumulated_pcr - lag(cases_accumulated_pcr)))
+#Solo tomar el último valor no NA 
+datos <- datos %>% mutate(new_cases = zoo::na.locf0(cases_accumulated_pcr),
+                          new_cases = new_cases - lag(new_cases),
+                          new_cases = if_else(is.na(cases_accumulated_pcr), cases_accumulated_pcr, new_cases))
 
 write.csv(datos, "data/output.csv", row.names = F)
 
