@@ -20,30 +20,30 @@ if (!("raster" %in% installed.packages())) {
 if (!("dplyr" %in% installed.packages())) {
         install.packages("dplyr")
 }
-`%>%` <- dplyr::`%>%` #definición del pipe 
+`%>%` <- dplyr::`%>%` # Definición del pipe 
 
-#====== Cartografia y datos ========== 
+#====== Cartografía y datos ========== 
 
-# shp península
+# shp Península
 penin_shp <- rgdal::readOGR("mapas_provincias/cartografia/se89_10_admin_prov_a_x.shp", encoding = "UTF-8") 
-# shp canarias
+# shp Canarias
 canarias_shp <- rgdal::readOGR("mapas_provincias/cartografia/se89_10_admin_prov_a_y.shp", encoding = "UTF-8") 
 
 shp <- raster::union(penin_shp, canarias_shp) #Unir shapes
-shp@data$id <- row.names(shp@data) #hacer explícito el id
+shp@data$id <- row.names(shp@data) # Hace  explícito el id
 
-#Deja solo ine_code en datos
+# Deja sólo ine_code en datos
 shp@data <- shp@data %>% dplyr::select(id_prov, id)
 names(shp)[1] <- "ine_code"
 
-# pasar shp a data.frame 
+# Pasar shp a data.frame 
 shp_df <- broom::tidy(shp)
 
-# id unir por id
+# Unir por id
 shp_df <- dplyr::left_join(shp_df, shp@data, by = "id")
 
 # Leer datos escovid19
-df <- read.csv("https://raw.githubusercontent.com/montera34/escovid19data/master/data/output/covid19-provincias-spain_consolidated.csv", header = T, encoding = "UTF-8") #TODO Archivo grande utilizar spark 
+df <- read.csv("https://raw.githubusercontent.com/montera34/escovid19data/master/data/output/covid19-provincias-spain_consolidated.csv", header = T, encoding = "UTF-8")  
 
 #======= Preparación de los datos ======== 
 
@@ -55,9 +55,9 @@ datos <- df %>% # TODO Renombrar variables para hacer el bucle
         dplyr::select(date, province, ine_code, ia14) %>% 
         dplyr::filter(date == fecha)
 
-shp_df$ine_code <- as.numeric(shp_df$ine_code) #númerico como en los datos
+shp_df$ine_code <- as.numeric(shp_df$ine_code) # Numérico como en los datos
 
-#Union 
+#Unión 
 
 ifelse( 
         dim(dplyr::anti_join(datos, shp_df))[1] == 0,
@@ -104,12 +104,12 @@ tema <- function(...) {
 # TODO Función todas las variables de interes en bucle
 ggplot2::ggplot(cerca, ggplot2::aes(long, lat, group = group)) +
         ggplot2::geom_polygon(ggplot2::aes(fill = ia14), 
-                              color = "gray70", size = 0.09) +
+                              color = "gray50", size = 0.3) +
         
         # Linea de separación de Canarias
         ggplot2::geom_path(data = lineas_canarias, 
                            ggplot2::aes(long, lat, group = NULL),
-                           colour = "white", size = 1.3, alpha = 0.5) +
+                           colour = "gray50", size = 1.3, alpha = 0.5) +
         
         # Escala de colores viridis
         ggplot2::scale_fill_viridis_c(option = "magma", direction = -1) +
@@ -118,7 +118,7 @@ ggplot2::ggplot(cerca, ggplot2::aes(long, lat, group = group)) +
         tema() +
         
         # Etiquetas 
-        ggplot2::labs(title = "Incidencia Acumulada 14 días",
+        ggplot2::labs(title = "Covid-19 Incidencia Acumulada 14",
                       subtitle = paste("Actualización:", fecha),
                       caption = "Datos: @escovid19data | Geometría: IGN | Elaboración: @JKniffki - KStats®") -> p
 
