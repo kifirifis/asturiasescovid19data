@@ -118,7 +118,8 @@ ggplot2::ggplot(cerca, ggplot2::aes(long, lat, group = group)) +
         ggplot2::scale_fill_viridis_c(option = "magma", direction = -1) +
         
         # Tema personalizado
-        tema() +
+        tema(legend.key.size = ggplot2::unit(1,"line"),
+             legend.key.width = ggplot2::unit(2, "cm" )) +
         
         # Etiquetas 
         ggplot2::labs(title = "Covid-19 Incidencia Acumulada 14 días",
@@ -143,7 +144,8 @@ ggplot2::ggplot(cerca, ggplot2::aes(long, lat, group = group)) +
         ggplot2::scale_fill_viridis_c(option = "magma", direction = -1) +
         
         # Tema personalizado
-        tema() +
+        tema(legend.key.size = ggplot2::unit(1,"line"),
+             legend.key.width = ggplot2::unit(2, "cm" )) +
         
         # Etiquetas 
         ggplot2::labs(title = "Covid-19 Fallecidos por cada 100 mil hab.",
