@@ -116,7 +116,7 @@ tema <- function(...) {
 #Mapa sin leyenda
 ggplot2::ggplot(cerca, ggplot2::aes(long, lat, group = group)) +
         ggplot2::geom_polygon(ggplot2::aes(fill = fallecidos100mil), 
-                              color = "gray50", size = 0.3) +
+                              color = "gray45", size = 0.3, alpha = 0.8) +
         # Línea de separación de Canarias
         ggplot2::geom_path(data = lineas_canarias,
                            ggplot2::aes(long, lat, group = NULL),
