@@ -1,4 +1,4 @@
-"date","ccaa","province","new_cases","cases_accumulated","pcr","TestAc","Muestras.PCR","Muestras.TestAc","muestras_totales","IA14","deceased","fallec_diarios","intensive_care","hospitalized","ocu_UCI_covid","ocu_hospi_covid","ocu_UCI_total","ocu_hospi_total","altas24h_total_covid","source_name","source","comments"
+"date","ccaa","province","new_cases","cases_accumulated","pcr","TestAc","cases_accumulated_pcr","Muestras.TestAc","muestras_totales","IA14","deceased","fallec_diarios","intensive_care","hospitalized","ocu_UCI_covid","ocu_hospi_covid","ocu_UCI_total","ocu_hospi_total","altas24h_total_covid","source_name","source","comments"
 "2020-02-29","Asturias, Principado de","Asturias",1,1,1,0,1,0,NA,0,0,0,NA,NA,NA,NA,NA,NA,NA,"Dados de Laplace","Otros",NA
 "2020-03-01","Asturias, Principado de","Asturias",0,1,0,0,1,0,NA,0,0,0,NA,NA,NA,NA,NA,NA,NA,"Dados de Laplace","Otros",NA
 "2020-03-02","Asturias, Principado de","Asturias",0,1,0,0,1,0,NA,0,0,0,NA,NA,NA,NA,NA,NA,NA,"Dados de Laplace","Otros",NA
@@ -291,3 +291,4 @@
 "2020-12-14","Asturias, Principado de","Asturias",123,25746,111,12,25259,487,487466,220.669,1252,13,99,480,29.118,15.204,51.176,70.763,55,"Dados de Laplace","Otros",NA
 "2020-12-15","Asturias, Principado de","Asturias",117,25863,113,4,25372,491,491885,208.643,1260,8,92,444,27.545,14.064,41.617,69.591,72,"Dados de Laplace","Otros",NA
 "2020-12-16","Asturias, Principado de","Asturias",91,25954,84,7,25456,498,495300,195.248,1270,10,83,409,24.85,12.951,39.222,68.841,68,"Dados de Laplace","Otros",NA
+"2020-12-17","Asturias, Principado de","Asturias",91,26045,87,4,25543,502,499714,181.365,1278,8,81,370,24.251,11.716,39.82,66.213,64,"Dados de Laplace","Otros",NA
