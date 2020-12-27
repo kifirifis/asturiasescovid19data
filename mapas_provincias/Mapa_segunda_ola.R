@@ -25,7 +25,7 @@ if (!("patchwork" %in% installed.packages())) {
         install.packages("patchwork")
 }
 require(patchwork)
-fecha <- Sys.Date() 
+fecha <- Sys.Date() - 6 
 `%>%` <- dplyr::`%>%` # Definición del pipe 
 
 #====== Cartografía y datos ========== 
