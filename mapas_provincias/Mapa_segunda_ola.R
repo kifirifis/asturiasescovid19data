@@ -64,7 +64,6 @@ datos <- df %>% # TODO Renombrar variables para hacer el bucle
         dplyr::summarise(suma_fallecidos = sum(fallecidos, na.rm = T)) %>% 
         dplyr::ungroup() %>% 
         dplyr::mutate(fallecidos100mil = round((suma_fallecidos / poblacion) * 100000, 2) ) 
-datos
 
 shp_df$ine_code <- as.numeric(shp_df$ine_code) # Numérico como en los datos
 
